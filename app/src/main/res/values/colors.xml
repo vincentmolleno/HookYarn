@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="blush_bg">#FFD6CA</color>
+    <color name="blush_card">#FFF0EB</color>
+    <color name="blush_mid">#EBBDAC</color>
+    <color name="blush_divider">#D4A899</color>
+
+    <color name="text_dark">#2D1B12</color>
+    <color name="text_muted">#8D6255</color>
+
+    <color name="accent_orange">#FF5722</color>
+    <color name="accent_orange_light">#FF7043</color>
+    <color name="accent_orange_dark">#C2470E</color>
+
+    <color name="nav_inactive">#8D6255</color>
+    <color name="nav_active">#FF5722</color>
+
+    <color name="colorPrimary">#2196F3</color>
+    <color name="colorPrimaryDark">#1976D2</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="story_ring_start">#FF5722</color>
+    <color name="story_ring_end">#FF9800</color>
+
+    <color name="purple">#6200EE</color>
+
+</resources>

@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">hook-yarn</string>
+
+    <string name="nav_home">Home</string>
+    <string name="nav_shop">Shop</string>
+    <string name="nav_create">Create</string>
+    <string name="nav_thread">Thread</string>
+    <string name="nav_profile">Profile</string>
+
+    <string name="cd_notifications">Notifications</string>
+    <string name="cd_messages">Messages</string>
+    <string name="cd_more_options">More options</string>
+    <string name="cd_like">Like post</string>
+    <string name="cd_comment">Comment</string>
+    <string name="cd_share">Share</string>
+    <string name="cd_save">Save post</string>
+    <string name="cd_play">Play reel</string>
+    <string name="cd_your_story">Your story</string>
+
+    <string name="back_button">Back</string>
+    <string name="empty_steps">Empty steps</string>
+    <string name="status_ongoing">Ongoing</string>
+    <string name="project_details">Project Details</string>
+    <string name="emoji_yarn">yarn</string>
+    <string name="emoji_pencil">edit</string>
+    <string name="emoji_grid">grid</string>
+    <string name="emoji_feed">feed</string>
+    <string name="emoji_projects">projects</string>
+    <string name="label_like">Like</string>
+    <string name="label_comment">Comment</string>
+    <string name="label_share">Share</string>
+    <string name="bullet_point">-</string>
+    <string name="checkbox_checked">[v]</string>
+    <string name="checkbox_unchecked">[ ]</string>
+    <string name="status_done">Done</string>
+    <string name="status_draft">Draft</string>
+    <string name="emoji_done">[v]</string>
+    <string name="emoji_draft">[...]</string>
+    <string name="emoji_ongoing">[>]</string>
+    <string name="label_take_photo">Take Photo</string>
+    <string name="label_choose_gallery">Choose from Gallery</string>
+    <string name="label_choose_video">Choose Video</string>
+    <string name="label_create_post">Create Post</string>
+    <string name="label_create_project">Create Project</string>
+    <string name="msg_welcome">Welcome to HOOK/YARN!</string>
+    <string name="hint_search">Search...</string>
+    <string name="supported_formats">- Max file size: 100MB\n- Supported formats: JPG, PNG, MP4</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="72dp"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="4dp">
+
+    <FrameLayout
+        android:layout_width="60dp"
+        android:layout_height="60dp">
+
+        <View
+            android:id="@+id/storyRing"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:background="@drawable/bg_story_ring_active" />
+
+        <ImageView
+            android:id="@+id/ivStoryProfile"
+            android:layout_width="52dp"
+            android:layout_height="52dp"
+            android:layout_gravity="center"
+            android:scaleType="centerCrop"
+            android:src="@drawable/ic_account_circle" />
+
+        <ImageView
+            android:id="@+id/ivAddBadge"
+            android:layout_width="18dp"
+            android:layout_height="18dp"
+            android:layout_gravity="bottom|end"
+            android:src="@drawable/ic_add"
+            android:background="@drawable/bg_add_badge"
+            android:padding="3dp"
+            android:visibility="gone"
+            android:contentDescription="Add story" />
+
+    </FrameLayout>
+
+    <TextView
+        android:id="@+id/tvStoryUsername"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="4dp"
+        android:gravity="center"
+        android:maxLines="1"
+        android:ellipsize="end"
+        android:textSize="10sp"
+        android:textColor="#212121" />
+
+</LinearLayout>

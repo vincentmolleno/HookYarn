@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "449908446319",
+    "project_id": "hook-yarn",
+    "storage_bucket": "hook-yarn.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449908446319:android:ed9930664a2e1d5273e99a",
+        "android_client_info": {
+          "package_name": "com.example.hookyarn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8bPkqGK2eoBR__T-_WfOHfaboBYw-Pko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
